@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on The Joy of Coding</title>
+    <link>https://pbhrdwj.github.io/post/</link>
+    <description>Recent content in Articles on The Joy of Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pbhrdwj.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Obligatory Hello World</title>
+      <link>https://pbhrdwj.github.io/post/hello_world/</link>
+      <pubDate>Sun, 12 Apr 2020 20:04:40 +0000</pubDate>
+      
+      <guid>https://pbhrdwj.github.io/post/hello_world/</guid>
+      <description>Even though its still early days of the Covid outbreak, this lockdown has already changed a lot of things for and around me.
+So, despite a restless 6 year old at home, some extra bit of household chores, and overall negativity all over the world, I suddenly find myself with an extra bit of spare time. Hence this is perhaps an opportune moment to pause and reflect, at things gone by and look forward to, great things, yet to come.</description>
+    </item>
+    
+  </channel>
+</rss>
