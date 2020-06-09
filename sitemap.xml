@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://pbhrdwj.github.io/</loc>
-    <lastmod>2020-04-12T20:04:40+00:00</lastmod>
+    <lastmod>2020-05-05T13:14:34+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pbhrdwj.github.io/post/safe_agile/</loc>
+    <lastmod>2020-05-05T13:14:34+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
